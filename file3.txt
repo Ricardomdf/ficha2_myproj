@@ -1,2 +1,3 @@
 exemplo de text file3
 
+fiz uma alteração aqui
