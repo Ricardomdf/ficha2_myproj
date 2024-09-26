@@ -1,3 +1,9 @@
-exemplo de text file3
+<h1>Listas de coisas</h1>
 
-fiz uma alteração aqui
+<h2>Comidas</h2>
+
+<ul>
+   <li>Bolos</li>
+   <li>Tostas</li>
+   <li>Sandes</li>
+</ul>
